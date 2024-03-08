@@ -60,8 +60,8 @@ def store_data():
         print(f"Error writing to file: {str(e)}")
 
  
-        with open(filename, 'r') as file:
-            file.read(text)
+        with open(filename, 'r+') as file:
+            file.readline(text)
         print(f"Data Displayed: ")
     
 
