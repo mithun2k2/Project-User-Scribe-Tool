@@ -59,6 +59,12 @@ def store_data():
     except Exception as e:
         print(f"Error writing to file: {str(e)}")
 
+ 
+        with open(filename, 'r') as file:
+            file.read(text)
+        print(f"Data Displayed: ")
+    
+
 # Main program
         
 def simple_scribe():
