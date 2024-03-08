@@ -1,5 +1,8 @@
 # Project-User-Scribe-Tool
-Your challenge is to develop a Simple Scribe tool using in-built Python string functions and string manipulation techniques.
+Creating a Simple Scribe tool involves applying various string manipulation techniques to process text input from the user. This tool will allow for basic string manipulations such as formatting, searching, extracting, and storing the processed data in a text file. 
+
+This tool will allow the user to interactively choose what action they want to perform on their input text, including storing the final version in a text file. Each function showcases basic string manipulation techniques that can be further expanded or refined based on specific requirements or user feedback.
+
 Simple Scribe Tool:
 To develop a Simple
 Scribe tool using in-built Python string
