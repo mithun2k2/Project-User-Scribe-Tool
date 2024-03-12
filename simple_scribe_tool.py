@@ -47,6 +47,7 @@ def format_and_clean():
     print(f"Title Case: {title_text}")
 
 # Store Data in a Text File
+# Read and Write data from text file
     
 def store_data():
     text = input("Enter your final text to store: ")
